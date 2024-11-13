@@ -1,3 +1,6 @@
+> [!WARNING]
+> Ce profil présente quelqu'un que vous devriez embaucher !
+
 - 👋 Hi, I’m @wayager7 (I'm ✨french✨)
 - 👀 I’m interested in digital creation
 - 🌱 I’m currently learning the multimedia professions
@@ -10,6 +13,4 @@ wayager7/wayager7 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-> [!WARNING]
-> Ce profil présente quelqu'un que vous devriez embaucher !
 
