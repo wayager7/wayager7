@@ -10,17 +10,6 @@ wayager7/wayager7 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> Ce profil présente quelqu'un que vous devriez embaucher !
 
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
