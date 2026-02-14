@@ -1,6 +1,3 @@
-> [!WARNING]
-> Ce profil présente quelqu'un que vous devriez embaucher !
-
 ## Waldi Fiaga
 ### Who is
 - 👋 Hi, I’m @wayager7 (I'm ✨french✨)
